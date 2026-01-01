@@ -98,5 +98,4 @@ This replication package:
 
 ## Citation
 
-If you use this package, please cite the paper: to be added later!
-
+If you use this package, please cite the paper: TO BE UPDATED LATER
