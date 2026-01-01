@@ -1,1 +1,0 @@
-# SeqFAL skeleton package
