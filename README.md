@@ -28,8 +28,8 @@ SeqFAL-Replication/
 │   ├── v2_seqfal.py        # complete SeqFAL implementation
 │   └── run_experiments.py # experiment entry point
 └── outputs/
-    ├── results.csv
-    └── round_log.csv
+    ├── SeqFAL.xlsx
+    └── Baselines.xlsx
 ```
 
 ---
