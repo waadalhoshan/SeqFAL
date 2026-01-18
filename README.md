@@ -98,4 +98,4 @@ This replication package:
 
 ## Citation
 
-If you use this package, please cite the paper: TO BE UPDATED LATER
+If you use this package, please cite the paper: Alhoshan, W. SeqFAL: A Federated Active Learning Framework for Private and Efficient Labeling of Security Requirements. Appl. Sci. 2026, 16, 914. https://doi.org/10.3390/app16020914
